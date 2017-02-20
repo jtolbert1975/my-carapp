@@ -1,0 +1,25 @@
+{
+  "name": "my-carapp",
+  "authors": [
+    "Jonathan Tolbert <imanjesolutions@gmail.com>"
+  ],
+  "description": "Code Test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest"
+  }
+}
